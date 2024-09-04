@@ -16,4 +16,5 @@ O intuito desse projeto é colocar em prética o coonhecimento adquirido sobre a
 
 ---
 # Autor
-- [Eduardo Couto]https://github.com/dashboard
+- [Eduardo Couto github](https://github.com/dashboard)
+- [Eduardo Couto linkedin](https://www.linkedin.com/feed/?trk=onboarding-landing)
