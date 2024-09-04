@@ -16,4 +16,4 @@ O intuito desse projeto é colocar em prética o coonhecimento adquirido sobre a
 
 ---
 # Autor
-- [Eduardo Couto](https://github.com/Duduur)
+- [Eduardo Couto]https://github.com/dashboard
